@@ -528,7 +528,7 @@ Receive Notifications
 
 # 📸 Screenshots
 
-> Add screenshots after implementation.
+> Added screenshots in report.
 
 ```
 📷 Login Page
